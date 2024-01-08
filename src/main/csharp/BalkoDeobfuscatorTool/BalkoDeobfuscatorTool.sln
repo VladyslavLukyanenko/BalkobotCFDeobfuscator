@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalkoDeobfuscatorTool", "BalkoDeobfuscatorTool.csproj", "{21432390-13D8-4104-8E44-5F325CDCE780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21432390-13D8-4104-8E44-5F325CDCE780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21432390-13D8-4104-8E44-5F325CDCE780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21432390-13D8-4104-8E44-5F325CDCE780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21432390-13D8-4104-8E44-5F325CDCE780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8EF88A8-E883-4AD7-AACB-3BD5E6B49B84}
+	EndGlobalSection
+EndGlobal

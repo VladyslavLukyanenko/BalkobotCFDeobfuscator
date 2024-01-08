@@ -1,0 +1,85 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# IDEA configs
+.idea/
+.vscode/
+.vs/
+*.csproj.user
+*.userprefs
+logs/
+
+# Dependency resource directories
+node_modules/
+packages/
+bower_components/
+babel_cache/
+
+
+#Build output directories
+bin/
+obj/
+dist/
+
+# Operating system files
+.Spotlight-V100
+.Trashes
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+
+.DS_STORE
+
+/dist/
+bazel-*
+e2e_test.*
+node_modules
+bower_components
+tools/gulp-tasks/cldr/cldr-data/
+
+# Include when developing application packages.
+pubspec.lock
+.c9
+.settings/
+*.swo
+modules/.settings
+.bazelrc
+.vscode
+modules/.vscode
+
+# Don't check in secret files
+*secret.js
+
+# Ignore npm/yarn debug log
+npm-debug.log
+yarn-error.log
+
+# build-analytics
+.build-analytics
+
+# rollup-test output
+/modules/rollup-test/dist/
+
+**/*.log
+
+db_data/
+.docker-compose.yml.swp
+/tmp/
+/env/**/data/
+
+
+appsettings.local.json
+*.DotSettings.user
+*.DotSettings
+artifacts/
